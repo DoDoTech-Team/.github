@@ -1,8 +1,3 @@
-<!-- banner -->
-<a href="https://dodotech.ru" target="_blank" rel="noreferrer">
- <img src="assets/images/banner.png" alt="banner">
-</a>
-
 <h1>DoDoTech Team</h1>
 
 <!-- Tech stack -->
