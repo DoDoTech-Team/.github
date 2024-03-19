@@ -3,4 +3,4 @@
  <img src="assets/images/banner.png" alt="banner">
 </a>
 
-<img src="assets/images/banner.png" alt="banner">
+<h1>DoDoTech Team</h1>
